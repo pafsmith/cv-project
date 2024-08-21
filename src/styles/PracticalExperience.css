@@ -1,0 +1,46 @@
+.practical-experience {
+    margin-bottom: 20px;
+  }
+  
+  .practical-experience form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .practical-experience form input {
+    margin-bottom: 10px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .practical-experience form button {
+    padding: 8px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .practical-experience form button:hover {
+    background-color: #45a049;
+  }
+  
+  .practical-experience div p {
+    margin: 5px 0;
+  }
+  
+  .practical-experience div button {
+    padding: 8px;
+    background-color: #008CBA;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .practical-experience div button:hover {
+    background-color: #007bb5;
+  }
+  

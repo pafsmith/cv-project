@@ -1,0 +1,46 @@
+.general-info {
+    margin-bottom: 20px;
+  }
+  
+  .general-info form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .general-info form input {
+    margin-bottom: 10px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .general-info form button {
+    padding: 8px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .general-info form button:hover {
+    background-color: #45a049;
+  }
+  
+  .general-info div p {
+    margin: 5px 0;
+  }
+  
+  .general-info div button {
+    padding: 8px;
+    background-color: #008CBA;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .general-info div button:hover {
+    background-color: #007bb5;
+  }
+  
